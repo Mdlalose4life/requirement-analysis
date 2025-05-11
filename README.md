@@ -40,3 +40,21 @@ The requirement analysis phase includes several critical activities to ensure a 
   Ensuring that documented requirements are complete, correct, feasible, and agreed upon by all stakeholders through reviews, walkthroughs, and approval sessions.
 
 ---
+
+## Types of Requirements
+Functional requirements describe the specific behavior or functions of the system
+- **Examples**
+  
+- The system shall allow users to book a room by selecting check-in and check-out dates.
+
+- The system shall send a confirmation email after a booking is completed.
+
+- The system shall allow users to cancel or modify existing bookings.
+
+
+## Non-functional Requirements
+Non-functional requirements define the quality attributes of the system—how the system performs its functions.
+- **Examples**
+- The booking system shall be available 99.9% of the time.
+- The system shall respond to booking requests within 2 seconds.
+- User data shall be encrypted both in transit and at rest.
