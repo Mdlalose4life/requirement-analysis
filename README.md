@@ -58,3 +58,27 @@ Non-functional requirements define the quality attributes of the system—how th
 - The booking system shall be available 99.9% of the time.
 - The system shall respond to booking requests within 2 seconds.
 - User data shall be encrypted both in transit and at rest.
+
+  ## Acceptance Criteria
+
+**Definition:**  
+Acceptance Criteria are a set of predefined conditions or statements that a software product must satisfy to be accepted by users, stakeholders, or the product owner. They serve as a bridge between requirements and testing.
+
+**Importance in Requirement Analysis:**  
+- Ensures that all stakeholders have a shared understanding of what "done" means for each requirement or user story.
+- Provides a basis for writing test cases and verifying that the software meets business needs.
+- Reduces ambiguity by defining specific expectations for functionality and performance.
+
+**Example – Checkout Feature (Booking Management System):**
+
+**User Story:**  
+_As a registered user, I want to be able to complete a room booking checkout process so that I can reserve my stay._
+
+**Acceptance Criteria**
+- The system shall display a summary of the booking including dates, room details, and total cost.
+- The user must be able to select a payment method (credit/debit card, mobile money, etc.).
+- The user must receive a confirmation message and email upon successful payment.
+- Payment transactions shall be securely processed with encryption.
+- The system shall prevent checkout if required fields (e.g., payment details, user info) are missing or invalid.
+
+---
