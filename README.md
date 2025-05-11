@@ -17,3 +17,26 @@ The goal of this repository is to provide resources, examples, and documentation
 
 3. **Enhances Communication Among Stakeholders**  
    A well-conducted requirement analysis process fosters collaboration between business stakeholders, developers, and users. It bridges the communication gap and ensures that all parties are aligned throughout the      project lifecycle.
+
+---
+
+## Key Activities in Requirement Analysis
+
+The requirement analysis phase includes several critical activities to ensure a clear, complete, and validated set of requirements:
+
+- **Requirement Gathering**  
+  Collecting information from stakeholders through interviews, surveys, questionnaires, and existing documentation to understand business needs.
+
+- **Requirement Elicitation**  
+  Actively engaging with stakeholders to uncover implicit, tacit, and emerging requirements using techniques like brainstorming, workshops, and use cases.
+
+- **Requirement Documentation**  
+  Clearly recording all gathered and elicited requirements in formats such as Software Requirement Specification (SRS) documents, user stories, or requirement models.
+
+- **Requirement Analysis and Modeling**  
+  Evaluating, prioritizing, and organizing requirements. This may involve identifying dependencies, conflicts, and using models (e.g., data flow diagrams, UML) to visualize and analyze requirements.
+
+- **Requirement Validation**  
+  Ensuring that documented requirements are complete, correct, feasible, and agreed upon by all stakeholders through reviews, walkthroughs, and approval sessions.
+
+---
